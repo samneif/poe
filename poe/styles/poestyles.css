@@ -3,7 +3,7 @@ font-family: "Comic Sans MS", "Comic Sans", cursive; /*Font change*/
 color: red; /*Color change*/
 max-width: 60em;
 margin: 0 auto 0 auto;
-background-image: url("tombstone.png"); /*Picture*/
+background-image: url("../images/tombstone.png"); /*Picture*/
 background-size: cover;
 }
 table, th, td {
